@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Daniel
+
+I am a Software Engineer
+- 💬 Ask me about #React #TypeScript #JavaScript #GraphQL
+- 📫 How to reach me: @sallai_daniel
 
 <!--
 **silver-snoopy/silver-snoopy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
